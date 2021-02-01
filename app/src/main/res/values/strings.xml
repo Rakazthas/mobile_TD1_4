@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidToastExample</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button_label">Show message</string>
+    <string name="msg_button_label">Show other message</string>
+    <string name="msg">Exercice 4</string>
+</resources>
